@@ -1,0 +1,6 @@
+API KEY = 610013ced2654f3f9492e94e0b63b273
+openai key = your_api_key_here
+
+  api_key="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",
+
+
